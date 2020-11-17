@@ -9,6 +9,8 @@
 
 如果你不怕麻烦，可以发邮件给我加入我们的团队，一起来维护这个仓库~
 
+[回到导航页](https://github.com/BUPT-study-materials/BUPTStudyMaterials)
+
 ## 课程
 
 [大物](大物/)
